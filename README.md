@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Milad-HPJ
-- 👀 I’m interested in web development and game development with javascript.
+- 👀 I’m interested in web development with HTML, CSS, Bootstrap, Javascripts and React.js.
 - 🌱 I’m currently learning web development.
 - 💞️ I’m looking to collaborate on simple HTML, CSS, Bootstrap and Javascript projects.
 <!---
