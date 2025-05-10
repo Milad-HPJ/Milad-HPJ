@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Milad Haghpanah Jahromi
+- 👋 Hi, I’m Milad Haghpanah Jahromi
 - 👀 I’m interested in network and cybersecurity.
 - 🌱 I’m currently learning CCNA, Linux, and pentest.
 - 💞️ I’m looking to collaborate on simple projects.
